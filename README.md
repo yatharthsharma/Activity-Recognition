@@ -2,7 +2,7 @@
 
 This project focuses on detecting user activity (Walking/Running) using smart phone's accelerometer 
 
-# Please find below a brief overview of the work done. You can find the details in the report uploaded
+// Please find below a brief overview of the work done. You can find the details in the report uploaded
 
 Problem Statement :
 Activity recognition ( Walking and Running ) using accelerometer data value from a smartphone.
